@@ -1,0 +1,36 @@
+{
+  "projects": [
+    {
+      "name": "Contributor Onboarding",
+      "owner": "Maya Chen",
+      "status": "On track",
+      "recentActivity": "Welcome guide review completed today",
+      "priority": "High",
+      "summary": "Clarifies first contributions with a streamlined setup guide and starter issues."
+    },
+    {
+      "name": "Accessibility Audit",
+      "owner": "Jordan Reyes",
+      "status": "In review",
+      "recentActivity": "Keyboard navigation findings shared yesterday",
+      "priority": "High",
+      "summary": "Tracks fixes that make core contributor workflows easier for everyone to use."
+    },
+    {
+      "name": "Release Notes Refresh",
+      "owner": "Priya Nair",
+      "status": "On track",
+      "recentActivity": "Draft for version 2.4 opened this week",
+      "priority": "Medium",
+      "summary": "Creates concise release notes that highlight changes contributors can act on."
+    },
+    {
+      "name": "Community Metrics",
+      "owner": "Alex Morgan",
+      "status": "Needs attention",
+      "recentActivity": "Data-source delay reported two days ago",
+      "priority": "Medium",
+      "summary": "Surfaces healthy community signals and identifies where maintainers need support."
+    }
+  ]
+}
